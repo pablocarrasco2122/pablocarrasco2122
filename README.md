@@ -22,7 +22,5 @@ Profesional apasionado de Desarrollo de Aplicaciones Multiplataforma con sólida
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablocarrasco2122&show_icons=true&locale=en&layout=compact" alt="pablocarrasco2122" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=pablocarrasco2122&" alt="pablocarrasco2122" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pablocarrasco2122&theme=gruvbox-duo" alt="GitHub Streak" /></a>
 </div>
-
-
