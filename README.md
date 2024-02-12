@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/Pablocarrasco2122/)](https://www.instagram.com/Pablocarrasco2122)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Pablocarrasco_2122@hotmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/pablocarrasco2122)
 
 Profesional apasionado de Desarrollo de Aplicaciones Multiplataforma con sólida experiencia en Sistemas Microinformáticos. Comprometido con la aplicación continua de conocimientos para contribuir al desarrollo de soluciones tecnológicas innovadoras
 
